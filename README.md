@@ -1,0 +1,2 @@
+# QUANTUMTRADINGSTRATEGIES
+Quantum Trading Strategies
